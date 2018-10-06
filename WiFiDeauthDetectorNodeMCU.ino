@@ -1,7 +1,7 @@
  #include <ESP8266WiFi.h>
  
-    const char* ap     = "anil";
-    const char* pass = "anil4321";
+    const char* ap     = "your_ssid";
+    const char* pass = "password";
     int wifiStatus;
     int connectStatus = 0;
     
